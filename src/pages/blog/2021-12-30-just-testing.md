@@ -9,3 +9,5 @@ tags:
   - Testing
 ---
 This isthe Body Rih text of the newly added blog.
+
+![Coffee making](/img/jumbotron.jpg "Jombotron")
